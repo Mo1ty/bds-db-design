@@ -1,0 +1,5 @@
+INSERT INTO mydb.brands_support_numbers VALUES (DEFAULT,'bmw_support@gmail.com','+420331218423');
+INSERT INTO mydb.brands_support_numbers VALUES (DEFAULT,'sup_skoda@gmail.com','+420324254423');
+INSERT INTO mydb.brands_support_numbers VALUES (DEFAULT,'ford_cz_support@gmail.com','+420123456789');
+INSERT INTO mydb.brands_support_numbers VALUES (DEFAULT,'chevrolet_support@gmail.com','+420822733212');
+INSERT INTO mydb.brands_support_numbers VALUES (DEFAULT,'mazda_supp@gmail.com','+420912342234');

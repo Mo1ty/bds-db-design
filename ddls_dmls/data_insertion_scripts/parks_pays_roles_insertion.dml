@@ -1,0 +1,18 @@
+INSERT INTO car_service.parking VALUES(DEFAULT, 'Rooseveltova', '81', '32023');
+INSERT INTO car_service.parking VALUES(DEFAULT, 'Bonulova', '83', '34234');
+INSERT INTO car_service.parking VALUES(DEFAULT, 'Binningerstrasse', '40', '4054');
+INSERT INTO car_service.parking VALUES(DEFAULT, 'Paulesova', '81', '42821');
+INSERT INTO car_service.parking VALUES(DEFAULT, 'Ruska', '12', '19130');
+INSERT INTO car_service.parking VALUES(DEFAULT, 'Rooseveltova', '11', '60200');
+
+INSERT INTO car_service.payment_method VALUES(DEFAULT, 'cash');
+INSERT INTO car_service.payment_method VALUES(DEFAULT, 'debit_card');
+INSERT INTO car_service.payment_method VALUES(DEFAULT, 'credit_card');
+INSERT INTO car_service.payment_method VALUES(DEFAULT, 'cheque');
+INSERT INTO car_service.payment_method VALUES(DEFAULT, 'bonuses');
+
+INSERT INTO car_service.roles VALUES(DEFAULT, 'client');
+INSERT INTO car_service.roles VALUES(DEFAULT, 'ex_employee');
+INSERT INTO car_service.roles VALUES(DEFAULT, 'employee');
+INSERT INTO car_service.roles VALUES(DEFAULT, 'director');
+INSERT INTO car_service.roles VALUES(DEFAULT, 'owner');
