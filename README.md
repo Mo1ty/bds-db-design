@@ -2,7 +2,8 @@
 Project work.
 
 What's inside:
-ddls_dmls folder has PostgreSQL scripts saved as separate files in the same condition they were aaded into the database, so it could be easier to analyze what is inserted inside every table.
+
+ddls_dmls folder has PostgreSQL scripts saved as separate files in the same condition they were added into the database, so it could be easier to analyze what is inserted inside every table.
 
 car_service_data_script - script with all INSERT commands.
 
