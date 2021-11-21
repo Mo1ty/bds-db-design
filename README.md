@@ -18,4 +18,4 @@ data_maker_script.py               - this script helped us fill the database wit
 pgAdmin_evid_screenshot.png        - evidence screenshot. Shows that our database is real, filled with data and working. Used select to show some data from different tables.
 
 
-My teammate: Konovalov Nikita, VUT ID: 226845
+Since this version work is done alone.
